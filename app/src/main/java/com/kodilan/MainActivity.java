@@ -44,12 +44,15 @@ public class MainActivity extends AppCompatActivity {
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             switch (item.getItemId()) {
                 case R.id.home:
+                    getSupportActionBar().setTitle(getString(R.string.lastest_jobs));
                     viewPager.setCurrentItem(0, false);
                     break;
                 case R.id.search:
+                    getSupportActionBar().setTitle(getString(R.string.search_jobs));
                     viewPager.setCurrentItem(1, false);
                     break;
                 case R.id.bell:
+                    getSupportActionBar().setTitle(getString(R.string.subscribe));
                     viewPager.setCurrentItem(2, false);
                     break;
             }
