@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kodilan</string>
+
+    <string name="lastest_jobs">Son Eklenen İlanlar</string>
+    <string name="search_jobs">İlan Arama</string>
+    <string name="subscribe">Abone Ol</string>
+    <string name="search_results">Arama Sonuçları</string>
+
+    <string name="full_time">Tam Zamanlı</string>
+    <string name="half_time">Yarı Zamanlı</string>
+
+    <string name="subscribe_content">Güncel iş ilanlarından haberdar olmak için hemen e-posta listesine kayıt olun!</string>
+    <string name="search_button">İlan Ara</string>
+    <string name="subscribe_button">Aboneliği Başlat</string>
+    <string name="subscribe_filter_1">Gönderim Aralığı</string>
+    <string name="subscribe_filter_2">İsim Soyisim</string>
+    <string name="subscribe_filter_3">E-posta Adresi</string>
+    <string name="search_filter_1">Pozisyon adı, teknoloji adı</string>
+    <string name="search_filter_2">Şehri Seçin</string>
+</resources>
